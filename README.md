@@ -1,19 +1,40 @@
  # 🧑🏽‍💻 Mithun Cherian Varghese
  **`Full Stack Developer`**
 
-Hi there 👋🏽 welcome to my GitHub :octocat: 
-! I'm a full-stack developer and a tech enthusiast. I like web development and exploring DevOps.
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mithun</h1></summary>
   </ul>
 </div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **Spring boot, Java, Angular, Typescript, Postgres**
+
+- 🌱 I’m currently learning **Devops**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 💬 Ask me about **Angular, Spring boot**
+
+- 📫 Feel free to reach me out **varghese.mithun93gmail.com**
+
+- <!-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username! --
+<!--Intro end-->
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,spring,css,discord,docker,postgres,express,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring,java,angular,rabbit,elasticsearch,docker,postgres,express,github,html,css,js,linux,mongodb,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 #
