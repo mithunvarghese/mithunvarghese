@@ -14,7 +14,7 @@ Hi there 👋🏽 welcome to my GitHub :octocat:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?
-     i=git,aws,css,discord,docker,postgres,express,redis,github,html,java,js,linux,,nginx,mongodb,mysql,nextjs,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
+     i=git,aws,css,discord,docker,postgres,dynamodb,express,firebase,redis,github,html,java,js,linux,md,nginx,mongodb,mysql,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=8" />
   </a>
 </p>
 #
