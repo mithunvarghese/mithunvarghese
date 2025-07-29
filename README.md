@@ -20,10 +20,6 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Spring boot, Java, Angular, Typescript, Postgres**
 
-- 🌱 I’m currently learning **Devops**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
 - 💬 Ask me about **Angular, Spring boot**
 
 - 📫 Feel free to reach me out **varghese.mithun93gmail.com**
